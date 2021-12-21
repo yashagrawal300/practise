@@ -12,7 +12,7 @@ Git Tutorial
 
 6) git log --- See history of commits
 
-7) git stash --- Suppose you don't want to delete the modified files but want to work on                  previous commit just stash them, it will make a copy of changed files and                  will reset back to last commit and whenever you want to back those stashed file use
+7) git stash --- Suppose you don't want to delete the modified files but want to work on                  previous commit just stash them, it will make a copy of changed files and                  will reset back to last commit and whenever you want to back those stashed 		 file use
 
 
 		1) git stash pop --- this will bring all the files back from stashed area
@@ -24,3 +24,8 @@ Git Tutorial
 		2) git stash  --- send them to stashed area
 		3) git stash pop --- get back all the files from the stashed area
 		4) git stash clear --- clearing stashed area
+
+8)git branch "branch_name" --- Always create a new branch, It will decrease merge issues.
+
+9)git checkout "branch_name" --- Point head towards branch_name so all the changes will be                                  added to this new branch
+
