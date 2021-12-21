@@ -1,0 +1,5 @@
+Git Tutorial
+
+1) git init ---  Initializing new git project
+
+2) git status --- loging untracked changes(not commited files)
