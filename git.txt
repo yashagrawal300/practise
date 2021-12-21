@@ -2,4 +2,10 @@ Git Tutorial
 
 1) git init ---  Initializing new git project
 
-2) git status --- loging untracked changes(not commited files)
+2) git status --- loging untracked changes(not commited files)(not added to staging area)
+
+3) git add "file name" -- adding file to staging area with file name or "." for adding everything.
+
+4) git commit -m "message" -- commiting files from staging area, "message" is REQUIRED
+
+5) git restore --staged file_name  --- Restore from staging area
