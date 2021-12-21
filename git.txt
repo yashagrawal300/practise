@@ -12,7 +12,7 @@ Git Tutorial
 
 6) git log --- See history of commits
 
-7) git stash --- Suppose you don't want to delete the modified files but want to work on                  previous commit just stash them, it will make a copy of changed files and                  will reset back to last commit and whenever you want to back those stashed 		 file use
+7) git stash --- Suppose you don't want to delete the modified files but want to work on previous commit just stash them, it will make a copy of changed files and will reset back to last commit and whenever you want to back those stashed file use
 
 
 		1) git stash pop --- this will bring all the files back from stashed area
