@@ -1,1 +1,41 @@
 Software Testing
+
+Types:
+
+1) Unit Testing
+	
+In this type of testing we write testcases for functions and smaller unit of program, basically checking for loops and arithmetic formulas or algorithms.
+
+2) Integration Testing
+
+Connecting all the componenets mainly done in unit testing and then testing them for desired output.
+
+3) Regression Testing
+
+Whenever new component is added, it needs to be sure that everything else is working fine.
+
+4)  Alpha Testing
+
+This is a validation testing done before shipping the codebase. Done by QA engineers.
+
+5) Beta Testing
+
+Software is provided to limited number of people for testing in a real-time envionment
+
+6) System Testing 
+
+The software is tested on different systems, it just looks for input and output without worrying about the internal working
+
+7) Stress Testing
+
+unfavorable conditions are given to find how system reacts.
+
+8) Performance testing
+
+This is also known as load testing, Major point is to figureout ru time performance and speed of the software.
+
+
+
+
+
+		
