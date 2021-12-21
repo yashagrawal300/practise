@@ -29,3 +29,4 @@ Git Tutorial
 
 9)git checkout "branch_name" --- Point head towards branch_name so all the changes will be added to this new branch
 
+10)
