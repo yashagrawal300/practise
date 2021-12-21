@@ -27,5 +27,5 @@ Git Tutorial
 
 8)git branch "branch_name" --- Always create a new branch, It will decrease merge issues.
 
-9)git checkout "branch_name" --- Point head towards branch_name so all the changes will be                                  added to this new branch
+9)git checkout "branch_name" --- Point head towards branch_name so all the changes will be added to this new branch
 
