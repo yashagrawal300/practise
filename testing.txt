@@ -28,7 +28,7 @@ The software is tested on different systems, it just looks for input and output 
 
 7) Stress Testing
 
-unfavorable conditions are given to find how system reacts.
+unfavorable conditions are given to software to find how software reacts.
 
 8) Performance testing
 
