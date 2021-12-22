@@ -1,0 +1,29 @@
+API and REST API and SOAP API
+
+
+--------API -----------
+
+Api is a way of sharing data, either from frontend to backend or vise versa, api is typs of method when called on server do some tasks and returns some response.
+
+Types of APIs are:
+
+1) SOAP : - Simple Object Access Protocol
+2) SOA : - Service Oriendted Architecture
+3) REST:- REpresentational state transfer
+4) ROA : - Resource Oriendted Architecture
+
+-----REST API ------
+
+A set of rules of implementing APIs, this uses URIs (uniform resource alocator)
+
+The data is send in body which has attribute data type (application/json, xml)
+
+In return api must send the response which can be either- status code, body.
+
+
+-----SOAP API--------
+
+Both SOAP and REST are similar over the HTTP protocol. SOAP is mostly based on XML. Microsoft originally developed SOAP.
+
+The XML makes the it extreamly complex. SOAP provides with build in error handling.
+
