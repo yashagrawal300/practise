@@ -1,0 +1,22 @@
+Software development life cycle
+
+
+It is a process used by the software industry to design and develop software.
+
+The SDLC follows followijnf stages:-
+
+
+Stage 1: Planning and Requirement Analysis - Done with client or sales department and onduct the fesibility of software
+
+Stage 2 : Defining Requirements - SRS(Software reuirement Specification) is created.
+
+Stage 3 : Designing the Product Architecture - Based on SRS, project architecture is created in a DDS - Design Document Specification
+
+Stage 4 : Building and Developing the product - The programming code is generated as per DDS during as DDS, Coding guidelines defined by thier organization and programming tools like compilers
+
+Stage 5 : Testing the Prodcut - The testing is done and all the defects are reported and tracked and fixed until the product meets the quality
+
+Stage 6: Deployment in the Market and Maintenance - the feedback is taken after the depolyment.
+
+
+
