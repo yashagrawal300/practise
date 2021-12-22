@@ -1,0 +1,7 @@
+Client Server Architecture
+
+It is a computing model in which the server hots, delivers and manages most of the resources and services to be consumed by the client.
+
+In this one or more computers are connnected to a server over the internet connection.
+
+Basically a server seriving data to clients from any where. Servers wait for the request from the client and then responds them. 
