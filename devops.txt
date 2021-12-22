@@ -1,0 +1,17 @@
+Waterfall Method
+
+It is a traditional, plan driven practice for developing systems One of the earliest software development lifecycle. The output of one stage is required to initiate the next stage
+
+
+Aglie Method
+
+Changes can be adapted during the developement the two framework used in Aglie is Scrum and kanban
+
+Devops
+
+DevOps practices resuilts in faster more dependable software releases that are aligned to busniess operation, It mainly works on continuous integration and continous delivery and continuous testing.
+
+
+
+
+
