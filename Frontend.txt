@@ -1,0 +1,30 @@
+Frontend
+
+Frontend is making graphical interphase for user, to make the software easy to use by everyone. Better the fronted moree it will be easy to use making it more comfortable to users which will also increase the users count.
+
+Some of the most used frontend web technologies are:
+
+1) Reactjs 
+	
+	a) Best for creating single page applications.
+	b) Faster because of virtual DOM.
+	c) Handled by facebook
+	d) Drawback -- Client Side rendering(not SEO friendly)
+	e) Drawback can be overcome by using Next.js which provides server side rendering
+	f) is used by Facebook, instagram, Netflix
+2) Angular js
+
+	a) Good for creating large scale application
+	b) Made by Google
+	c) Size of angular is large which effects time and performance
+	d) It is used by Nike, UpWork, HBO.
+
+
+3) Vue js
+
+	a) Uses Virtual DOM
+	b) uses Pure javascript
+	c) LightWeight
+	d) Disadvantage - small community
+
+
