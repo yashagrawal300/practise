@@ -1,0 +1,26 @@
+Backend
+
+Backend is very important part of any application, this is were the main security and other logical opperations are done. Database connectivity, scalling, api serving ect are done in backend.
+
+Some of the most popular backend frameworks are.
+
+1) Nodesjs, Expressjs /JAVASCRIPT
+
+	a) Uses runtime javascript framwork, Nodesjs
+	b) Easy to get started creating API in express is easy.
+	c) Nodejs works on a single thread which leads to less concurrent request computing and not utilizing the full CPU usage.
+	d)Provides support to many open source librarys.
+
+2) Django/Python
+
+	a) Provides additional security
+	b) Support multi threadding
+	c) Open Source
+	d) Easy to code because of Python
+
+3) Servlet/Java
+
+	a) High security because fo Java
+	b) Because of Java it provides automatic garbage collection.
+	c) Better performance it creates thread for each request.
+
