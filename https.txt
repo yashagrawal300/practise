@@ -1,0 +1,31 @@
+HTTP and methods with status codes.
+
+Hypertext transfer protocol
+
+It is an application layer protocol for transmitting documents. The main focus is to transfer data between web browsers and web servers. HTTP follows the client server model with a client opening a connection to make a request until it recives the response. 
+
+Many things can be done in HTTP like cacheing for faster loading and setting CORS.
+
+
+Methods ---- 
+
+1) GET - This is used to read data, mainly used for pagination or filtering data.
+
+2) POST - This is used to create new data the response can be similar to GET request. The data is send in body.
+
+3) PATCH - This is used to update the data either one entity or the batch. 
+
+4) DELETE - This is used to delete the data, returns 204 for no content or 400 for bad request.
+
+5) PUT - This is used either to update or replace the data.
+
+
+Status Codes --- 
+
+1) 200 -- OK
+2) 404 -- Not Found
+3) 400 -- Bad request
+4) 500 -- Internal Server Error
+
+
+
