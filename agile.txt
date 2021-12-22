@@ -1,0 +1,12 @@
+Agile and Scrum ceremonies 
+
+
+The four events that occur during a SCRUM sprint.
+
+Sprint Backlog Refinement
+Sprint planning
+Daily Stand-Up
+Sprint Review
+Spernt Retrosepective
+
+
