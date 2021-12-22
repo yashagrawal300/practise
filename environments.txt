@@ -1,0 +1,24 @@
+Environments
+
+
+Software tseting is a critical stage in the system development life cycle.
+
+Types of Environment
+
+1) Development Environment 
+
+This is where software developement taks takes place, like programming, debugging etc.
+
+2) Test Environment 
+
+Testing is done to find the bugs and fix them.
+
+3) Staging Environment
+
+All the work is merged into the build system before moving into production environment
+
+4) Production Environment
+
+The last step is to ship is the end users. 
+
+
