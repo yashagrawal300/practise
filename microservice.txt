@@ -1,0 +1,11 @@
+MicroService Architecture
+
+Large applications are divided into the smaller parts then are interconnected. Whenever a service goes down developers has to fix just that part. Different teams can be made and the development can become faster.
+
+Most of the big companies uses microservice architecture.
+
+Single server architecture is called Monolithic architecture.
+
+Microservice also divides the load making it faster. Different servers have different spectific work. 
+
+
